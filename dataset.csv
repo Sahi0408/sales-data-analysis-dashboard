@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Region,Sales,Profit,Month
+1001,Laptop,Electronics,North,55000,12000,January
+1002,Mobile,Electronics,South,25000,5000,January
+1003,Headphones,Accessories,West,4000,1200,February
+1004,Keyboard,Accessories,East,3000,700,February
+1005,Monitor,Electronics,North,15000,3500,March
+1006,Mouse,Accessories,South,1500,400,March
+1007,Tablet,Electronics,West,22000,6000,April
+1008,Printer,Electronics,East,12000,2500,April
+1009,Speaker,Accessories,North,5000,1400,May
+1010,Camera,Electronics,South,45000,10000,May
